@@ -15,7 +15,7 @@ main()
         printf("Tue");
         break;
     case 3:
-        printf("Wed");
+        printf("Wed")
         break;
     case 4:
         printf("Thu");
